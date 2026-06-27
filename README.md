@@ -1,2 +1,1 @@
-# C-programming
-programs in c 
+# my programs in c 
